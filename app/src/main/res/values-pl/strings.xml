@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Zgłaszający pigułki</string>
+    <string name="settings">Ustawienia</string>
+
+    
+    <string name="save">Zapisać</string>
+    <string name="pref_notifications_sound">Wybierz dźwięk</string>
+    <string name="pref_notifications_sound_active">Emituj dźwięk po powiadomieniu</string>
+    <string name="pref_notifications_vibrate_active">Wibracje przy powiadomieniu</string>
+    <string name="pref_notifications">Powiadomienia</string>
+    <string name="circle">okrąg</string>
+    <string name="exit">Wyjście</string>
+
+    
+    <string name="channel_name">Zgłaszający pigułki</string>
+    <string name="channel_description">Powiadomienia o pigułkach</string>
+    <string name="accept">Zaakceptować</string>
+    <string name="snooze">Drzemka</string>
+    <string name="pill_notification_title">Powiadomienie o pigułce</string>
+    <string name="pill_notification_text">Czas wziąć pigułkę…</string>
+    <string name="days_with">Liczba dni z</string>
+    <string name="days_without">Liczba dni bez</string>
+    <string name="use_date">Data pierwszego użycia</string>
+    <string name="use_time">Czas powiadomienia</string>
+</resources>

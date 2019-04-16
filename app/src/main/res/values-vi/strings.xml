@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thông báo viên thuốc</string>
+    <string name="settings">Cài đặt</string>
+    <string name="save">Lưu</string>
+    <string name="pref_notifications_sound">Chọn âm thanh</string>
+    <string name="pref_notifications_sound_active">Phát ra âm thanh trên thông báo</string>
+    <string name="pref_notifications_vibrate_active">Rung là thông báo</string>
+    <string name="pref_notifications">thông báo</string>
+    <string name="circle">vòng tròn</string>
+    <string name="exit">lối ra</string>
+    <string name="channel_name">Thông báo viên thuốc</string>
+    <string name="channel_description">Thông báo thuốc tránh thai</string>
+    <string name="accept">chấp nhận</string>
+    <string name="snooze">giấc ngũ ngắn</string>
+    <string name="pill_notification_title">Thông báo thuốc tránh thai</string>
+    <string name="pill_notification_text">Đã đến lúc uống thuốc ...</string>
+    <string name="days_with">Số ngày với</string>
+    <string name="days_without">Số ngày không có</string>
+    <string name="use_date">Ngày sử dụng đầu tiên</string>
+    <string name="use_time">Thời gian thông báo</string>
+</resources>

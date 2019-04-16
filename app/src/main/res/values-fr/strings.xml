@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pillule notification</string>
+    <string name="settings">Réglages</string>
+
+    
+    <string name="save">Sauvegarder</string>
+    <string name="pref_notifications_sound">Sélectionner la sonnerie</string>
+    <string name="pref_notifications_sound_active">Émettre du son sur notification</string>
+    <string name="pref_notifications_vibrate_active">Vibrer à la notification</string>
+    <string name="pref_notifications">Notifications</string>
+    <string name="circle">Cercle</string>
+    <string name="exit">Sortie</string>
+
+    
+    <string name="channel_name">Pill Notifier</string>
+    <string name="channel_description">Pill notifications</string>
+    <string name="accept">Acceptez</string>
+    <string name="snooze">Roupillon</string>
+    <string name="pill_notification_title">Pill notification</string>
+    <string name="pill_notification_text">Il est temps de prendre ta pilule…</string>
+    <string name="days_with">Nombre de jours avec</string>
+    <string name="days_without">Nombre de jours sans</string>
+    <string name="use_date">Date de première utilisation</string>
+    <string name="use_time">Heure de notification</string>
+</resources>

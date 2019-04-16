@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pill-ilmoittaja</string>
+    <string name="settings">asetukset</string>
+
+    
+    <string name="save">Tallentaa</string>
+    <string name="pref_notifications_sound">Ääni valitaan</string>
+    <string name="pref_notifications_sound_active">Emitoi ääni ilmoituksen yhteydessä</string>
+    <string name="pref_notifications_vibrate_active">Värähtelee ilmoituksessa</string>
+    <string name="pref_notifications">ilmoitukset</string>
+    <string name="circle">Ympyrä</string>
+    <string name="exit">poistuminen</string>
+
+    
+    <string name="channel_name">Pill-ilmoittaja</string>
+    <string name="channel_description">Pill-ilmoitukset</string>
+    <string name="accept">Hyväksyä</string>
+    <string name="snooze">torkkua</string>
+    <string name="pill_notification_title">Pill-ilmoitus</string>
+    <string name="pill_notification_text">On aika ottaa pilleri…</string>
+    <string name="days_with">Päivien lukumäärä</string>
+    <string name="days_without">Ilman päivää</string>
+    <string name="use_date">Ensimmäinen käyttöpäivä</string>
+    <string name="use_time">Ilmoitusaika</string>
+</resources>

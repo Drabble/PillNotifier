@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Notificador de la píldora</string>
+    <string name="settings">Ajustes</string>
+
+    
+    <string name="save">Salvar</string>
+    <string name="pref_notifications_sound">Selección de sonido</string>
+    <string name="pref_notifications_sound_active">Emitir sonido en la notificación.</string>
+    <string name="pref_notifications_vibrate_active">Vibrar en la notificación</string>
+    <string name="pref_notifications">Notificaciones</string>
+    <string name="circle">Circulo</string>
+    <string name="exit">Salida</string>
+
+    
+    <string name="channel_name">Notificador de la píldora</string>
+    <string name="channel_description">Notificaciones de pastillas</string>
+    <string name="accept">Aceptar</string>
+    <string name="snooze">dormitar</string>
+    <string name="pill_notification_title">Notificación de la píldora</string>
+    <string name="pill_notification_text">Es hora de tomar tu pastilla ...</string>
+    <string name="days_with">Número de días con</string>
+    <string name="days_without">Número de días sin</string>
+    <string name="use_date">Primera fecha de uso</string>
+    <string name="use_time">Tiempo de notificación</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pill Notifier</string>
+    <string name="settings">instellings</string>
+
+    
+    <string name="save">Save</string>
+    <string name="pref_notifications_sound">Klank kies</string>
+    <string name="pref_notifications_sound_active">Gee geluid op kennisgewing</string>
+    <string name="pref_notifications_vibrate_active">Vibreer op kennisgewing</string>
+    <string name="pref_notifications">Kennisgewings</string>
+    <string name="circle">sirkel</string>
+    <string name="exit">uitgang</string>
+
+    
+    <string name="channel_name">Pill Notifier</string>
+    <string name="channel_description">Pil kennisgewings</string>
+    <string name="accept">aanvaar</string>
+    <string name="snooze">Sluimer</string>
+    <string name="pill_notification_title">Pill kennisgewing</string>
+    <string name="pill_notification_text">Dit is tyd om jou pil te neem ...</string>
+    <string name="days_with">Aantal dae met</string>
+    <string name="days_without">Aantal dae sonder</string>
+    <string name="use_date">Eerste gebruik datum</string>
+    <string name="use_time">Kennisgewing tyd</string>
+</resources>

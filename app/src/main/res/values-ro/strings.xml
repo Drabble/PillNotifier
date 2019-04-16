@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Notificatorul pilulei</string>
+    <string name="settings">Setări</string>
+
+    
+    <string name="save">Salvați</string>
+    <string name="pref_notifications_sound">Selectați sunetul</string>
+    <string name="pref_notifications_sound_active">Emiteți sunet la notificare</string>
+    <string name="pref_notifications_vibrate_active">Vibrați la notificare</string>
+    <string name="pref_notifications">notificări</string>
+    <string name="circle">Cerc</string>
+    <string name="exit">Ieșire</string>
+
+    
+    <string name="channel_name">Notificatorul pilulei</string>
+    <string name="channel_description">Notificări privind pastilele</string>
+    <string name="accept">Accept</string>
+    <string name="snooze">Pui de somn</string>
+    <string name="pill_notification_title">Notificare privind pilula</string>
+    <string name="pill_notification_text">Este timpul să vă luați pilula ...</string>
+    <string name="days_with">Numărul de zile cu</string>
+    <string name="days_without">Numărul de zile fără</string>
+    <string name="use_date">Data primei utilizări</string>
+    <string name="use_time">Timp de notificare</string>
+</resources>

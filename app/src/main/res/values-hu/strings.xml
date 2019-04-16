@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pill Notifier</string>
+    <string name="settings">Beállítások</string>
+
+    
+    <string name="save">Mentés</string>
+    <string name="pref_notifications_sound">Hang kiválasztása</string>
+    <string name="pref_notifications_sound_active">Értesítéskor hangot ad ki</string>
+    <string name="pref_notifications_vibrate_active">Rezgés az értesítéskor</string>
+    <string name="pref_notifications">értesítések</string>
+    <string name="circle">Kör</string>
+    <string name="exit">Kijárat</string>
+
+    
+    <string name="channel_name">Pill Notifier</string>
+    <string name="channel_description">Pill értesítések</string>
+    <string name="accept">Elfogad</string>
+    <string name="snooze">Szundikálás</string>
+    <string name="pill_notification_title">Pill értesítés</string>
+    <string name="pill_notification_text">Itt az ideje, hogy bevegye a tablettát…</string>
+    <string name="days_with">Napok száma</string>
+    <string name="days_without">Nélküli napok száma</string>
+    <string name="use_date">Első használat dátuma</string>
+    <string name="use_time">Értesítési idő</string>
+</resources>

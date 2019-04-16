@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">גלולה Notifier</string>
+    <string name="settings">הגדרות</string>
+
+    
+    <string name="save">להציל</string>
+    <string name="pref_notifications_sound">בחר צליל</string>
+    <string name="pref_notifications_sound_active">פולט צליל בהודעה</string>
+    <string name="pref_notifications_vibrate_active">רטט בהודעה</string>
+    <string name="pref_notifications">התראות</string>
+    <string name="circle">מעגל</string>
+    <string name="exit">צא</string>
+
+    
+    <string name="channel_name">גלולה Notifier</string>
+    <string name="channel_description">התראות גלולות</string>
+    <string name="accept">קבל</string>
+    <string name="snooze">נודניק</string>
+    <string name="pill_notification_title">הודעה גלולה</string>
+    <string name="pill_notification_text">הגיע הזמן לקחת את הגלולה שלך ...</string>
+    <string name="days_with">מספר הימים עם</string>
+    <string name="days_without">מספר הימים ללא</string>
+    <string name="use_date">תאריך השימוש הראשון</string>
+    <string name="use_time">זמן התראה</string>
+</resources>

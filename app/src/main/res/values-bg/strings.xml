@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Нотификатор за хапчета</string>
+    <string name="settings">Настройки</string>
+
+    
+    <string name="save">Запази</string>
+    <string name="pref_notifications_sound">Изберете звук</string>
+    <string name="pref_notifications_sound_active">Излъчвайте звук при уведомяване</string>
+    <string name="pref_notifications_vibrate_active">Вибрира при уведомяване</string>
+    <string name="pref_notifications">Известия</string>
+    <string name="circle">кръг</string>
+    <string name="exit">изход</string>
+
+    
+    <string name="channel_name">Нотификатор за хапчета</string>
+    <string name="channel_description">Известия за хапчета</string>
+    <string name="accept">приемам</string>
+    <string name="snooze">дрямка</string>
+    <string name="pill_notification_title">Уведомяване за хапчета</string>
+    <string name="pill_notification_text">Време е да вземете хапчето си…</string>
+    <string name="days_with">Брой дни с</string>
+    <string name="days_without">Брой дни без</string>
+    <string name="use_date">Дата на първа употреба</string>
+    <string name="use_time">Време за уведомяване</string>
+</resources>

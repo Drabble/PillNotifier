@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:title="@string/days_with"
+        android:key="days_with"
+        android:numeric="integer" />
+
+    <EditTextPreference
+        android:title="@string/days_without"
+        android:key="days_without"
+        android:numeric="integer" />
+
+    <ch.drabble.pillnotification.preferences.DatePreference
+        android:title="@string/use_date"
+        android:key="use_date"
+        android:defaultValue="2019-04-13"/>
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="notifications"
+        android:title="@string/pref_notifications" />
+
+    <ch.drabble.pillnotification.preferences.TimePreference
+        android:title="@string/use_time"
+        android:key="use_time"
+        android:defaultValue="12:00"
+        android:numeric="integer" />
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:dependency="notifications"
+        android:key="notifications_vibrate_active"
+        android:title="@string/pref_notifications_vibrate_active" />
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:dependency="notifications"
+        android:key="notifications_sound_active"
+        android:title="@string/pref_notifications_sound_active" />
+
+    <RingtonePreference
+        android:defaultValue="content://settings/system/notification_sound"
+        android:dependency="notifications_sound_active"
+        android:key="notifications_sound"
+        android:ringtoneType="notification"
+        android:title="@string/pref_notifications_sound" />
+
+    <Preference
+        style="?android:preferenceInformationStyle"
+        android:enabled="true"
+        android:key="save_button"
+        android:title="@string/save" /> />
+</PreferenceScreen>

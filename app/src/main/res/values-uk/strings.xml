@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pill Notifier</string>
+    <string name="settings">настройки</string>
+    <string name="save">зберегти</string>
+    <string name="pref_notifications_sound">Виберіть звук</string>
+    <string name="pref_notifications_sound_active">Випромінюйте звук під час сповіщення</string>
+    <string name="pref_notifications_vibrate_active">Вібрація - це сповіщення</string>
+    <string name="pref_notifications">повідомлення</string>
+    <string name="circle">коло</string>
+    <string name="exit">вихід</string>
+    <string name="channel_name">Pill Notifier</string>
+    <string name="channel_description">Сповіщення про таблетки</string>
+    <string name="accept">приймати</string>
+    <string name="snooze">подрімати</string>
+    <string name="pill_notification_title">Повідомлення про таблетки</string>
+    <string name="pill_notification_text">Настав час приймати таблетки ...</string>
+    <string name="days_with">Кількість днів з</string>
+    <string name="days_without">Кількість днів без</string>
+    <string name="use_date">Дата першого використання</string>
+    <string name="use_time">Час сповіщення</string>
+</resources>

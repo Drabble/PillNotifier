@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pill Notifier</string>
+    <string name="settings">Iestatījumi</string>
+
+    
+    <string name="save">Saglabāt</string>
+    <string name="pref_notifications_sound">Skaņa izvēlas</string>
+    <string name="pref_notifications_sound_active">Izziņojiet skaņu</string>
+    <string name="pref_notifications_vibrate_active">Vibrē paziņojumā</string>
+    <string name="pref_notifications">Paziņojumi</string>
+    <string name="circle">Aplis</string>
+    <string name="exit">Izeja</string>
+
+    
+    <string name="channel_name">Pill Notifier</string>
+    <string name="channel_description">Pill paziņojumi</string>
+    <string name="accept">Pieņemt</string>
+    <string name="snooze">Atlikt</string>
+    <string name="pill_notification_title">Pill paziņojums</string>
+    <string name="pill_notification_text">Ir pienācis laiks lietot tabletes ...</string>
+    <string name="days_with">Dienu skaits ar</string>
+    <string name="days_without">Bez dienu skaits</string>
+    <string name="use_date">Pirmā lietošanas datums</string>
+    <string name="use_time">Paziņošanas laiks</string>
+</resources>

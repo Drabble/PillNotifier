@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Пилл Нотифиер</string>
+    <string name="settings">Подешавања</string>
+
+    
+    <string name="save">сачувати</string>
+    <string name="pref_notifications_sound">Изаберите звук</string>
+    <string name="pref_notifications_sound_active">Емитује звук приликом обавештавања</string>
+    <string name="pref_notifications_vibrate_active">Вибрација на обавештење</string>
+    <string name="pref_notifications">Обавештења</string>
+    <string name="circle">Круг</string>
+    <string name="exit">Излаз</string>
+
+    
+    <string name="channel_name">Пилл Нотифиер</string>
+    <string name="channel_description">Пилл нотифицатионс</string>
+    <string name="accept">Прихвати</string>
+    <string name="snooze">Сноозе</string>
+    <string name="pill_notification_title">Обавештење о таблетама</string>
+    <string name="pill_notification_text">Време је да узмете пилулу ...</string>
+    <string name="days_with">Број дана са</string>
+    <string name="days_without">Број дана без</string>
+    <string name="use_date">Датум прве употребе</string>
+    <string name="use_time">Време обавештења</string>
+</resources>

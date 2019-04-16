@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pemberitahu Pil</string>
+    <string name="settings">Pengaturan</string>
+
+    
+    <string name="save">Menyimpan</string>
+    <string name="pref_notifications_sound">Pilih suara</string>
+    <string name="pref_notifications_sound_active">Keluarkan suara saat pemberitahuan</string>
+    <string name="pref_notifications_vibrate_active">Getar saat pemberitahuan</string>
+    <string name="pref_notifications">Notifikasi</string>
+    <string name="circle">Lingkaran</string>
+    <string name="exit">Keluar</string>
+
+    
+    <string name="channel_name">Pemberitahu Pil</string>
+    <string name="channel_description">Pemberitahuan pil</string>
+    <string name="accept">Menerima</string>
+    <string name="snooze">Tunda</string>
+    <string name="pill_notification_title">Pemberitahuan pil</string>
+    <string name="pill_notification_text">Sudah waktunya untuk minum pil Anda ...</string>
+    <string name="days_with">Jumlah hari dengan</string>
+    <string name="days_without">Jumlah hari tanpa</string>
+    <string name="use_date">Tanggal penggunaan pertama</string>
+    <string name="use_time">Waktu pemberitahuan</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pill Notifier</string>
+    <string name="settings">Indstillinger</string>
+
+    
+    <string name="save">Gemme</string>
+    <string name="pref_notifications_sound">Lydvalg</string>
+    <string name="pref_notifications_sound_active">Afgiv lyd på underretning</string>
+    <string name="pref_notifications_vibrate_active">Vibrere ved underretning</string>
+    <string name="pref_notifications">underretninger</string>
+    <string name="circle">Cirkel</string>
+    <string name="exit">Afslut</string>
+
+    
+    <string name="channel_name">Pill Notifier</string>
+    <string name="channel_description">Pill notifikationer</string>
+    <string name="accept">Acceptere</string>
+    <string name="snooze">Udsæt</string>
+    <string name="pill_notification_title">Pill notifikation</string>
+    <string name="pill_notification_text">Det er på tide at tage din pille ...</string>
+    <string name="days_with">Antal dage med</string>
+    <string name="days_without">Antal dage uden</string>
+    <string name="use_date">Første brugsdato</string>
+    <string name="use_time">Meddelelsestid</string>
+</resources>

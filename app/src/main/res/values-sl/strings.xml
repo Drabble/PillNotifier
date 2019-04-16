@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Obvestilo o tabletah</string>
+    <string name="settings">Nastavitve</string>
+
+    
+    <string name="save">Shrani</string>
+    <string name="pref_notifications_sound">Izberite zvok</string>
+    <string name="pref_notifications_sound_active">Izpiši zvok ob obvestilu</string>
+    <string name="pref_notifications_vibrate_active">Vibriranje o obvestilu</string>
+    <string name="pref_notifications">Obvestila</string>
+    <string name="circle">Krog</string>
+    <string name="exit">Izhod</string>
+
+    
+    <string name="channel_name">Obvestilo o tabletah</string>
+    <string name="channel_description">Obvestila o tabletah</string>
+    <string name="accept">Sprejmi</string>
+    <string name="snooze">Dremež</string>
+    <string name="pill_notification_title">Obvestilo o tabletah</string>
+    <string name="pill_notification_text">Čas je, da vzamete tabletke ...</string>
+    <string name="days_with">Število dni z</string>
+    <string name="days_without">Število dni brez</string>
+    <string name="use_date">Datum prve uporabe</string>
+    <string name="use_time">Čas obvestila</string>
+</resources>

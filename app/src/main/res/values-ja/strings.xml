@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ピル通知</string>
+    <string name="settings">設定</string>
+
+    
+    <string name="save">保存する</string>
+    <string name="pref_notifications_sound">サウンドセレクト</string>
+    <string name="pref_notifications_sound_active">通知時に音を出す</string>
+    <string name="pref_notifications_vibrate_active">通知時に振動する</string>
+    <string name="pref_notifications">通知</string>
+    <string name="circle">サークル</string>
+    <string name="exit">出口</string>
+
+    
+    <string name="channel_name">ピル通知</string>
+    <string name="channel_description">ピル通知</string>
+    <string name="accept">受け入れる</string>
+    <string name="snooze">スヌーズ</string>
+    <string name="pill_notification_title">ピル通知</string>
+    <string name="pill_notification_text">ピルを飲む時が来ました…</string>
+    <string name="days_with">との日数</string>
+    <string name="days_without">なしの日数</string>
+    <string name="use_date">初回使用日</string>
+    <string name="use_time">通知時間</string>
+</resources>

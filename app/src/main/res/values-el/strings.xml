@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Χειριστής χαπιών</string>
+    <string name="settings">Ρυθμίσεις</string>
+
+    
+    <string name="save">Αποθηκεύσετε</string>
+    <string name="pref_notifications_sound">Επιλογή ήχου</string>
+    <string name="pref_notifications_sound_active">Εκπέμπει ήχο κατά την ειδοποίηση</string>
+    <string name="pref_notifications_vibrate_active">Δόνηση κατά την ειδοποίηση</string>
+    <string name="pref_notifications">Ειδοποιήσεις</string>
+    <string name="circle">Κύκλος</string>
+    <string name="exit">Εξοδος</string>
+
+    
+    <string name="channel_name">Χειριστής χαπιών</string>
+    <string name="channel_description">Ειδοποιήσεις χαπιών</string>
+    <string name="accept">Αποδέχομαι</string>
+    <string name="snooze">Υπνάκος</string>
+    <string name="pill_notification_title">Δήλωση χαπιών</string>
+    <string name="pill_notification_text">Ήρθε η ώρα να πάρετε το χάπι σας ...</string>
+    <string name="days_with">Αριθμός ημερών με</string>
+    <string name="days_without">Αριθμός ημερών χωρίς</string>
+    <string name="use_date">Ημερομηνία πρώτης χρήσης</string>
+    <string name="use_time">Χρόνος ειδοποίησης</string>
+</resources>

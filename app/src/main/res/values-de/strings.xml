@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pill Notifier</string>
+    <string name="settings">die Einstellungen</string>
+
+    
+    <string name="save">Sparen</string>
+    <string name="pref_notifications_sound">Tonauswahl</string>
+    <string name="pref_notifications_sound_active">Bei der Benachrichtigung Ton ausgeben</string>
+    <string name="pref_notifications_vibrate_active">Bei Benachrichtigung vibrieren</string>
+    <string name="pref_notifications">Benachrichtigungen</string>
+    <string name="circle">Kreis</string>
+    <string name="exit">Ausgang</string>
+
+    
+    <string name="channel_name">Pill Notifier</string>
+    <string name="channel_description">Tablettenbenachrichtigungen</string>
+    <string name="accept">Akzeptieren</string>
+    <string name="snooze">Snooze</string>
+    <string name="pill_notification_title">Pille Benachrichtigung</string>
+    <string name="pill_notification_text">Es ist Zeit, deine Pille zu nehmen…</string>
+    <string name="days_with">Anzahl der Tage mit</string>
+    <string name="days_without">Anzahl der Tage ohne</string>
+    <string name="use_date">Datum der ersten Verwendung</string>
+    <string name="use_time">Benachrichtigungszeit</string>
+</resources>

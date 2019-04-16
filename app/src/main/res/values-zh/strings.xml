@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">丸通知器</string>
+    <string name="settings">设置</string>
+
+    
+    <string name="save">保存</string>
+    <string name="pref_notifications_sound">声音选择</string>
+    <string name="pref_notifications_sound_active">通知发出声音</string>
+    <string name="pref_notifications_vibrate_active">振动通知</string>
+    <string name="pref_notifications">通知</string>
+    <string name="circle">圈</string>
+    <string name="exit">出口</string>
+
+    
+    <string name="channel_name">丸通知器</string>
+    <string name="channel_description">丸通知</string>
+    <string name="accept">接受</string>
+    <string name="snooze">打盹</string>
+    <string name="pill_notification_title">丸通知</string>
+    <string name="pill_notification_text">是时候服用你的药丸......</string>
+    <string name="days_with">天数</string>
+    <string name="days_without">没有的天数</string>
+    <string name="use_date">首次使用日期</string>
+    <string name="use_time">通知时间</string>
+</resources>

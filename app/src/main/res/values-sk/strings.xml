@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pill Notifier</string>
+    <string name="settings">nastavenie</string>
+
+    
+    <string name="save">Uložiť</string>
+    <string name="pref_notifications_sound">Zvuk vyberte</string>
+    <string name="pref_notifications_sound_active">Vyvolať zvuk pri oznámení</string>
+    <string name="pref_notifications_vibrate_active">Vibrovať pri oznámení</string>
+    <string name="pref_notifications">oznámenia</string>
+    <string name="circle">kružnice</string>
+    <string name="exit">Východ</string>
+
+    
+    <string name="channel_name">Pill Notifier</string>
+    <string name="channel_description">Pill upozornenia</string>
+    <string name="accept">súhlasiť</string>
+    <string name="snooze">zdriemnutie</string>
+    <string name="pill_notification_title">Upozornenie na pilulku</string>
+    <string name="pill_notification_text">Je čas vziať si pilulku ...</string>
+    <string name="days_with">Počet dní s</string>
+    <string name="days_without">Počet dní bez</string>
+    <string name="use_date">Dátum prvého použitia</string>
+    <string name="use_time">Čas oznámenia</string>
+</resources>

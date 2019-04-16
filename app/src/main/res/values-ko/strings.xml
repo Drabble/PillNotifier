@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">알약 알리미</string>
+    <string name="settings">설정</string>
+
+    
+    <string name="save">구하다</string>
+    <string name="pref_notifications_sound">소리 선택</string>
+    <string name="pref_notifications_sound_active">알림시 소리 내기</string>
+    <string name="pref_notifications_vibrate_active">알림시 진동</string>
+    <string name="pref_notifications">알림</string>
+    <string name="circle">원</string>
+    <string name="exit">출구</string>
+
+    
+    <string name="channel_name">알약 알리미</string>
+    <string name="channel_description">알약 알림</string>
+    <string name="accept">동의</string>
+    <string name="snooze">선잠</string>
+    <string name="pill_notification_title">알약 알림</string>
+    <string name="pill_notification_text">이제 약을 먹을 시간입니다 ...</string>
+    <string name="days_with">일수</string>
+    <string name="days_without">없는 일수</string>
+    <string name="use_date">처음 사용 날짜</string>
+    <string name="use_time">알림 시간</string>
+</resources>

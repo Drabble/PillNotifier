@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Таблетка уведомитель</string>
+    <string name="settings">настройки</string>
+
+    
+    <string name="save">Сохранить</string>
+    <string name="pref_notifications_sound">Выбор звука</string>
+    <string name="pref_notifications_sound_active">Издайте звук при уведомлении</string>
+    <string name="pref_notifications_vibrate_active">Вибрация при уведомлении</string>
+    <string name="pref_notifications">Уведомления</string>
+    <string name="circle">Круг</string>
+    <string name="exit">Выход</string>
+
+    
+    <string name="channel_name">Таблетка уведомитель</string>
+    <string name="channel_description">Таблетки уведомлений</string>
+    <string name="accept">принимать</string>
+    <string name="snooze">вздремнуть</string>
+    <string name="pill_notification_title">Таблетки уведомления</string>
+    <string name="pill_notification_text">Настало время принять таблетку ...</string>
+    <string name="days_with">Количество дней с</string>
+    <string name="days_without">Количество дней без</string>
+    <string name="use_date">Дата первого использования</string>
+    <string name="use_time">Время уведомления</string>
+</resources>
